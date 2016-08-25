@@ -1,7 +1,13 @@
 # woocommerce-bulk-import-export-csv
 Bulk product price and all other product property spreadsheet editor, CSV import / export, mass price update
 
+<a href="http://holest.com/index.php/holest-outsourcing/joomla-wordpress/excel-like-manager-for-woocommerce-and-wp-e-commerce.html">
 <img style="max-width: 100%;" src="http://holest.com/images/woo.jpg" alt="Woo commerce excel like product manager">
+</a>
+
+<a href="http://holest.com/index.php/holest-outsourcing/joomla-wordpress/excel-like-manager-for-woocommerce-and-wp-e-commerce.html">
+DOWNLOAD
+</a>
 
 An WooCommerce / WP E-commerce 'MS excel'-like fast input spreadsheet editor for product data you change most frequently. It supports both WooCommerce and WP E-commerce. UI behaves same as in MS Excel. It also has import/export feature. This is the right thing for you if your users give you a blank stare when you're trying to explain them how to update prices, stock and other product data using default shop interface.
 
@@ -58,3 +64,7 @@ While working with spreadsheet all changes are autosaved.
 - Sorting
 - Turn off/on default columns
 - Custom fileds (Enables you to edit anything like content, excerpt, date ,. all post fields.., any meta key, any term ...)
+- 
+<a href="http://holest.com/index.php/holest-outsourcing/joomla-wordpress/excel-like-manager-for-woocommerce-and-wp-e-commerce.html">
+DOWNLOAD
+</a>
